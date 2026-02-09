@@ -7,6 +7,6 @@ class ReactPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return LegacyReactPage(url: 'http://homolog.s1nc.com.br');
+    return LegacyReactPage(url: 'https://homolog.s1nc.com.br');
   }
 }
